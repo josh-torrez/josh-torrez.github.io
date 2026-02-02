@@ -25,7 +25,7 @@ I currently work as a Store Supervisor at Casper, where I manage client relation
 
 ## Technical Interests & Projects
 
-My primary focus is on computer graphics and game engine development. I've worked on several projects that demonstrate my passion for this field:
+My current focus is on computer graphics and engine development. I've worked on several projects that demonstrate my passion for this field:
 
 - **Isometric Game Engine**: Developed a 2D isometric rendering engine in Python with OpenGL, featuring procedural dungeon generation, sprite animation systems, and custom shader programs for dynamic lighting and fog of war effects.
 

@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Joshua Torrez"
 title_separator          : "-"
 name                     : &name "Joshua Torrez"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"
   bio              : "Computer Science student at University of Houston with interests in interactive computer graphics and design"
   location         : "Houston, TX"
-  employer         : "Casper"
+  employer         : "Student"
   uri              : # URL
   email            : "jptorrez@cougarnet.uh.edu"
 
