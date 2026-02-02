@@ -1,64 +1,52 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download Resume (PDF)](/files/Joshua_Torrez_Resume.pdf){: .btn .btn--info}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Bachelor of Science in Computer Science**, University of Houston, Expected May 2027
+* **Associate of Science in Computer Science**, Lone Star College System, Graduated December 2024
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Store Supervisor** - Casper, The Woodlands, TX (October 2025 - Current)
+  * Manage client relationships using Salesforce CRM, maintaining lead follow-up and customer list upkeep
+  * Create and analyze daily and monthly sales reports to track performance metrics and identify trends
+  * Collaborate with stores nationwide to develop promotional strategies and implement sales tactics
+  * Coach and mentor team members on sales techniques, product knowledge, and customer service best practices
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Sales Lead** - Purple, Cypress, TX (July 2022 - October 2025)
+  * Provided exceptional customer service, ensuring customer satisfaction remained the top priority
+  * Improved team conversion (+15% YoY) and average order value (+10%) through targeted coaching
+  * Demonstrated comprehensive product knowledge and sales strategies on the showroom floor
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Pharmacy Technician** - Walgreens, Cypress, TX (March 2020 - February 2022)
+  * Maintained accurate patient records using pharmacy management technology and processed medication orders
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **Isometric Game Engine** - Python, OpenGL, PyGame
+  * Developed a 2D isometric rendering engine with procedural dungeon generation using hybrid algorithms
+  * Implemented sprite animation system with 8/16-directional movement, combat states, and enemy AI behaviors
+  * Created custom shader programs for dynamic lighting, fog of war, and tile-based occlusion rendering
+
+* **Vulkan Rendering Engine** - C++, Vulkan, GLFW, CMake
+  * Developing a Vulkan-based graphics engine with validation layers and cross-platform support via MoltenVK
+  * Implemented instance creation, physical device selection, and queue family management
+  * Configured CMake build system for macOS with Apple Silicon compatibility
+
+* **Linear Algebra Calculator** - Python, Tkinter, NumPy
+  * Built a GUI application for solving systems of linear equations using matrix inversion methods
+
+Technical Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Languages**: C++, Python, JavaScript
+* **Frameworks**: Unreal Engine, Vulkan, OpenGL, Metal, Tkinter, NumPy, OAuth
+* **Developer Tools**: Git, Docker, SQL, GraphQL, VSCode, Visual Studio, PyCharm, CLion, IntelliJ, CMake
