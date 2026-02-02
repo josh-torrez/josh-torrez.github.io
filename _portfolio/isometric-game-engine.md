@@ -7,7 +7,6 @@ collection: portfolio
 ## Overview
 
 Developed a comprehensive 2D isometric rendering engine using Python, OpenGL, and PyGame. This project demonstrates advanced graphics programming concepts and procedural content generation techniques.
-1--- # Jekyll layout that compresses HTML # v3.0.2 # https://jch.penibelst.de/ # © 2014–2015 Anatol Broder # MIT License ---
 ## Key Features
 
 - **Procedural Dungeon Generation**: Hybrid algorithm for creating randomized dungeon layouts
