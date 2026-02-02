@@ -1,5 +1,8 @@
 # Main navigation links
 
 main:
+  - title: "Projects"
+    url: /portfolio/
+
   - title: "Resume"
     url: /cv/
