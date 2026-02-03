@@ -24,23 +24,23 @@ author:
   # Biographic information
   avatar           : "ProPicture.png"
   name             : "Joshua Torrez"
-  pronouns         : # example: "she/her"
+  pronouns         : #Pronouns
   bio              : "Computer Science student at University of Houston with interests in interactive computer graphics and design"
   location         : "Houston, TX"
   employer         : "Student"
-  uri              : # URL
+  uri              : https://www.cs.uh.edu/
   email            : "jptorrez@cougarnet.uh.edu"
 
   # Academic websites
-  academia         : https://www.cs.uh.edu/
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #URL
+  googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : #URL
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : #URL
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
