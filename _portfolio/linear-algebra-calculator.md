@@ -11,7 +11,7 @@ Built a desktop application that provides an intuitive interface for solving sys
 ## Key Features
 
 - **Matrix Operations**: Solve systems of linear equations using matrix inversion methods
-- **User-Friendly Interface**: Clean GUI built with Tkinter
+- **User Interface**: Clean GUI built with Tkinter
 - **Efficient Computations**: NumPy backend for fast numerical processing
 
 ## Technologies
